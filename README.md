@@ -1,4 +1,4 @@
-# sample
+# sample of a web page
 
 a web page static design for the website designing 
 
